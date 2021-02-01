@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Cloud Application Platform"
+subtitle: Build Web Application and Microservices faster with Java / Javascript / PHP
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
